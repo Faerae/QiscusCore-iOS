@@ -1,3 +1,4 @@
+github "SwiftyJSON/SwiftyJSON" "5.0.1"
 github "amsibsam/CocoaMQTT" "4e48e7d2b707b645c2674bb45948b8b251b437c7"
 github "daltoniam/Starscream" "3.0.2"
 github "daltoniam/common-crypto-spm" "1.1.0"
